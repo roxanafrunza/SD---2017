@@ -1,2 +1,2 @@
 # SD---2017
-Data Structured, 1st year college course
+Data Structures, 1st year college course
